@@ -13,3 +13,6 @@ loop - print n numbers, sum of first n numbers, condition in loop,  Prime number
 Period 3:
 pattern 
 other problems(loop based)
+
+
+Github Link : https://github.com/Pkhristi-devloper/Ctrl-C-Control-the-Code
